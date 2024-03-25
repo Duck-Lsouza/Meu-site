@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: black;
 }
   
 .titulo{
@@ -8,12 +8,14 @@ body{
   font-family: "Joystix";
   color: aliceblue;
   background-color: blue;
+  border-radius: 10px;
 
 }
 
 .conteiner{
  background-color: rgb(0, 0, 255);
  text-align: center;
+ border-radius: 10px;
  
  
 font-size: xx-large;
@@ -23,8 +25,8 @@ height: auto;}
 
 
 p{
-color: aliceblue;
-font-family: ro
+color: rgb(240, 248, 255);
+font-size: 20px ;
 }
 .ilustracao{
   border-radius: 10px;
