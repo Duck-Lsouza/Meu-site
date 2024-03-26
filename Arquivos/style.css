@@ -1,14 +1,22 @@
 
+*{
+  
+  font-family: "Joystix";
+
+
+}
 body{
-    background-color: black;
+  background-color: rgb(27, 26, 37);
 }
   
 .titulo{
   text-align: center;
-  font-family: "Joystix";
   color: aliceblue;
-  background-color: blue;
+  background-color: rgb(65, 65, 133);
   border-radius: 10px;
+  border-style: ridge;
+  border-color: black ;
+  
 
 }
 
@@ -17,8 +25,11 @@ body{
  text-align: center;
  border-radius: 10px;
  
+ margin-top: 2rem;
  
-font-size: xx-large;
+ 
+ 
+font-size: x-large;
 width: auto;
 height: auto;}
 
@@ -27,6 +38,7 @@ height: auto;}
 p{
 color: rgb(240, 248, 255);
 font-size: 20px ;
+
 }
 .ilustracao{
   border-radius: 10px;
@@ -40,4 +52,13 @@ font-size: 20px ;
 }
 ul{
   list-style-type: none;
+}
+div{
+  margin-left: 2em;
+}
+img{
+  border-width: 10px;
+  border-style:outset;
+  border-color: rgb(67, 48, 134);
+  align-items: center;
 }
