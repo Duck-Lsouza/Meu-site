@@ -62,3 +62,14 @@ img{
   border-color: rgb(67, 48, 134);
   align-items: center;
 }
+.linha-anos{
+
+}
+table{
+  border: 3px solid  #000000;
+  border-collapse: collapse;
+}
+td{
+  border: 3px solid #000000;
+  padding: 15px;
+}
